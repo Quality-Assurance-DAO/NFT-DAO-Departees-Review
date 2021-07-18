@@ -6,7 +6,9 @@ description: 'NFT-DAO Departure Discussion, Fund 3 and 4 - Cardano Forum Post'
 
 ### DanMercurius
 
-10d
+{% embed url="https://forum.cardano.org/t/nft-dao-departure-discussion-fund-3-and-4/64724/2?" %}
+
+### 12th June 2021
 
 Thank you TAK for getting the ball rolling🙏 some words on the situation in general and then follows my report
 
