@@ -6,3 +6,7 @@
 
 * [NFT-DAO departure discussion](cardano-forum-posts/untitled.md)
 
+---
+
+* [DanMercurius](danmercurius.md)
+
