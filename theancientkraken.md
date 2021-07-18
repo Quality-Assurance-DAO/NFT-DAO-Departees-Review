@@ -22,7 +22,7 @@ Mutual Knowledge was hired to review said code and potentially build the marketp
 
 ## unasinni
 
-2021-06-13
+### 13th June 2021
 
 For reference, part of this discussion took place under ideascale proposals, to be found here
 
