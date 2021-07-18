@@ -1,3 +1,7 @@
+---
+description: 'NFT-DAO Departure Discussion, Fund 3 and 4 - Cardano Forum Post'
+---
+
 # DanMercurius
 
 ### DanMercurius
