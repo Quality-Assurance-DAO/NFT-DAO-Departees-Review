@@ -16,9 +16,7 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ### Yes, thanks for the opportunity to explain our reasoning and timing, once all the funding is received.
 
-NFT-DAO \(the whole team\) \(@nftdao\) kudos icon + 11/Jun/21 5:17 PM
-
-Team Member
+ [NFT-DAO \(the whole team\)](https://cardano.ideascale.com/a/member/NFT-DAO-%28the-whole-team%29/3071109-48088) \(@nftdao\) [![kudos icon](https://cardano.ideascale.com/images/unified/v3/kudos/regular.png) +](https://cardano.ideascale.com/a/kudos/give/comment/359644) 11/Jun/21 5:16 PM \(Last edited by [NFT-DAO \(the whole team\)](https://cardano.ideascale.com/a/member/NFT-DAO-%28the-whole-team%29/3071109-48088) 11/Jun/21 5:34 PM\) Team Member
 
 Yes, thanks for the opportunity to explain our reasoning and timing, once all the funding is received.
 
