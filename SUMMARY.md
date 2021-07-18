@@ -9,5 +9,5 @@
 ---
 
 * [DanMercurius - 12th June 2021](danmercurius.md)
-* [TheAncientKraken](theancientkraken.md)
+* [TheAncientKraken - 12th June 2021](theancientkraken.md)
 
