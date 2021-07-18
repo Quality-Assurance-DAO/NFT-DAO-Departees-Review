@@ -12,6 +12,8 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ![NFT-DAO deliverables and use of funds](../.gitbook/assets/nft-dao_deliverables_and_use_of_funds_1-86a08d.jpg)
 
+## 11th June 2021
+
 ### Yes, thanks for the opportunity to explain our reasoning and timing, once all the funding is received.
 
 NFT-DAO \(the whole team\) \(@nftdao\) kudos icon + 11/Jun/21 5:17 PM
