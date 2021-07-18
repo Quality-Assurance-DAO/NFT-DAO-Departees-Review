@@ -2,9 +2,9 @@
 description: 'NFT-DAO Departure Discussion, Fund 3 and 4 - Cardano Forum Post'
 ---
 
-# DanMercurius
+# DanMercurius - 12th June 2021
 
-### DanMercurius
+## DanMercurius - 12th June 2021
 
 {% embed url="https://forum.cardano.org/t/nft-dao-departure-discussion-fund-3-and-4/64724/2?" %}
 
