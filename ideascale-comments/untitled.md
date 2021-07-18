@@ -12,3 +12,5 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ![NFT-DAO deliverables and use of funds](../.gitbook/assets/nft-dao_deliverables_and_use_of_funds_1-86a08d.jpg)
 
+
+
