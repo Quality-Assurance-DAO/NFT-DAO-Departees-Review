@@ -20,3 +20,13 @@ Rich told specific members of the DAO, who have contribution access, to steal my
 
 Mutual Knowledge was hired to review said code and potentially build the marketplace for the DAO. The review was paid in full. The marketplace may be built. The problem lay within the marketplace building scheme, specifically the smart contract system they will implement. Plutus is not on mainnet so any smart contract style backend will be a fake smart contract backend. I worry that MuKn will be using the information from an unauthorized recording and code from a repo I can not access to create the marketplace.
 
+## unasinni
+
+2021-06-13
+
+For reference, part of this discussion took place under ideascale proposals, to be found here
+
+{% embed url="https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088\#idea-tab-comments" %}
+
+
+
