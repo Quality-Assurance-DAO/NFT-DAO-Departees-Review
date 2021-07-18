@@ -13,5 +13,5 @@
 
 ## Ideascale Comments
 
-* [Untitled](ideascale-comments/untitled.md)
+* [Ideascale Comments](ideascale-comments/untitled.md)
 
