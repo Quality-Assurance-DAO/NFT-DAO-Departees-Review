@@ -58,5 +58,7 @@ Stay mindful, healthy & happy
 
 ![Ideascale comment](.gitbook/assets/2021-07-18-4-.png)
 
+{% embed url="https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088\#idea-tab-comments" %}
+
 
 
