@@ -88,9 +88,13 @@ Why haven't any of the contributors been paid by the NFT-DAO?
 
 [nftdao](https://cardano.ideascale.com/a/member/3071109-48088)  Hey Rich, Thanks for your response here. I don't think it's fair to frame KBS as someone lacking courage, transparency, honesty, and integrity. To me, they seem like someone who feels they were genuinely misled and exploited by NFT-DAO. It should be acknowledged and steps should be taken to ensure things like this become much less likely to happen in the future. 
 
-After reviewing the original F3 proposal, I can understand where the confusion stems from. [https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088) 
+After reviewing the original F3 proposal, I can understand where the confusion stems from. 
 
-The use of funds section clearly outlines deliverables with dollar amounts attached: Community - $5,340 Governance - $19,893 Development - $23,732 Directly below this the proposal reads "These funds will be allocated to community members who join us to make this vision happen and be disbursed with transparency in the spirit of the DAO methodology and input." 
+{% embed url="https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088" %}
+
+The use of funds section clearly outlines deliverables with dollar amounts attached: 
+
+Community - $5,340 Governance - $19,893 Development - $23,732 Directly below this the proposal reads "_These funds will be allocated to community members who join us to make this vision happen and be disbursed with transparency in the spirit of the DAO methodology and input._" 
 
 To me this implies that if you as a community member help realize the goals listed above, then you will be rewarded. On 4/21/21 NFT-DAO presented updates in Catalyst TH showing the progress we had made towards these deliverables: Community - 94% complete Governance - 91% complete Development - 69% complete In response to the progress we had made, Catalyst then released a corresponding percentage of our F3 funds. 
 
