@@ -34,13 +34,13 @@ Our wallet address is public: addr1qyd2t7r0na47eq08fjfjh29alqxlmqmrml2ulexw3xdx5
 
 Our Contract with the community is an opportunity to contribute to an open-source project as the proposal states:
 
-"Community Member n+1, ….individuals who could potentially pool their expertise into an all-embracing open-source version to benefit the entire community rather than one project. Their expertise is multivariate in development, SPO, marketing, design, business, and more." —The proposal states it is "open-source" 10 times.
+"_Community Member n+1, ….individuals who could potentially pool their expertise into an all-embracing open-source version to benefit the entire community rather than one project. Their expertise is multivariate in development, SPO, marketing, design, business, and more." —The proposal states it is "open-source" 10 times_.
 
 However, above and beyond open-source models that typically aren't paid gigs, we allocated and will disburse funds to those "who join with us to make this vision happen".
 
 As far as our Contract with Mutual Knowledge, it is a paid contractor arrangement. And the best thing that has happened in development. They concluded:
 
-"The failure to build Akkadia to any master plan is a critical flaw in the code. It resulted in significant wasted effort in the form of components that do not connect to each other, crucial functionality never being built, and left no easy way to integrate the code components that were built. For these reasons, we believe the most cost-effective option for NFT DAO is to design and build Akkadia from scratch."
+"_The failure to build Akkadia to any master plan is a critical flaw in the code. It resulted in significant wasted effort in the form of components that do not connect to each other, crucial functionality never being built, and left no easy way to integrate the code components that were built. For these reasons, we believe the most cost-effective option for NFT DAO is to design and build Akkadia from scratch._"
 
 Should we pay for those contributions?
 
