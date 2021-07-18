@@ -6,6 +6,8 @@ description: 'NFT-DAO Departure Discussion, Fund 3 and 4 - Cardano Forum Post'
 
 ## TheAncientKraken - 12th June 2021
 
+{% embed url="https://forum.cardano.org/t/nft-dao-departure-discussion-fund-3-and-4/64724/3?" %}
+
 I have my own proposal in Fund 4. It aligned with the goals of the NFT-DAO proposal in Fund 3. Rich reached out to me and asked if I wanted to collaborate on the frontend for this project, seeing that my fund 4 proposal deliverables would be fulfilled and the DAO would have a nice-looking frontend, I decided to collaborate with the DAO. It seemed like a win-win situation.
 
 The reality of this collaboration suddenly changed when the DAO got offered an IDO worth approximately 5 million dollars. I quickly went from writing simple react components for the frontend to creating a fully functional marketplace with a fake smart contract system.
