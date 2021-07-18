@@ -4,5 +4,5 @@
 
 ## Cardano-Forum-Posts
 
-* [Untitled](cardano-forum-posts/untitled.md)
+* [NFT-DAO departure discussion](cardano-forum-posts/untitled.md)
 
