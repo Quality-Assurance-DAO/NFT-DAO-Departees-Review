@@ -4,6 +4,10 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 # Ideascale Comments
 
+## Comments on NFT-DAO EZ-on
+
+{% embed url="https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088" %}
+
 ## 10th June 2021
 
 ### KBS - Will the other contributors ever be paid for their work?
