@@ -8,6 +8,8 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ### Will the other contributors ever be paid for their work?
 
+ [KBS](https://cardano.ideascale.com/a/member/KBS/3092763-48088) \(@kbs\) [![kudos icon](https://cardano.ideascale.com/images/unified/v3/kudos/regular.png) 3](https://cardano.ideascale.com/a/kudos/give/comment/359506) 10/Jun/21 5:13 PM
+
 ![Will the other contributors ever be paid for their work?](../.gitbook/assets/2021-07-18-5-.png)
 
 ![NFT-DAO deliverables and use of funds](../.gitbook/assets/nft-dao_deliverables_and_use_of_funds_1-86a08d.jpg)
