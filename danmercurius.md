@@ -54,3 +54,9 @@ Hopefully this will serve as a learning experience for all parties and we can gr
 
 Stay mindful, healthy & happy
 
+## Ideascale comment
+
+![Ideascale comment](.gitbook/assets/2021-07-18-4-.png)
+
+
+
