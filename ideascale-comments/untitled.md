@@ -6,7 +6,7 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ## 10th June 2021
 
-### Will the other contributors ever be paid for their work?
+### KBS - Will the other contributors ever be paid for their work?
 
  [KBS](https://cardano.ideascale.com/a/member/KBS/3092763-48088) \(@kbs\) [![kudos icon](https://cardano.ideascale.com/images/unified/v3/kudos/regular.png) 3](https://cardano.ideascale.com/a/kudos/give/comment/359506) 10/Jun/21 5:13 PM
 
@@ -16,7 +16,7 @@ description: Ideascale Comments relating to NFT-DAO-Departees
 
 ## 11th June 2021
 
-### Yes, thanks for the opportunity to explain our reasoning and timing, once all the funding is received.
+### Rich Kopcho - Yes, thanks for the opportunity to explain our reasoning and timing, once all the funding is received.
 
  [NFT-DAO \(the whole team\)](https://cardano.ideascale.com/a/member/NFT-DAO-%28the-whole-team%29/3071109-48088) \(@nftdao\) [![kudos icon](https://cardano.ideascale.com/images/unified/v3/kudos/regular.png) +](https://cardano.ideascale.com/a/kudos/give/comment/359644) 11/Jun/21 5:16 PM \(Last edited by [NFT-DAO \(the whole team\)](https://cardano.ideascale.com/a/member/NFT-DAO-%28the-whole-team%29/3071109-48088) 11/Jun/21 5:34 PM\) Team Member
 
@@ -54,32 +54,19 @@ I believe our Catalyst community will see your attempt to discredit these propos
 
 --Rich Kopcho, Proposer F3 Comprehensive NFT Framework Collab
 
-NFT-DAO-NFT-metadata-standards
-
+- NFT-DAO-NFT-metadata-standards
 Will the other contributors ever be paid for their work?
-
-NFT-DAO-EZ-on
-
+- NFT-DAO-EZ-on
 Will the other contributors ever be paid for their work?
-
-NFT-DAO-EZ-Pay-API-wallet-connector
-
+- NFT-DAO-EZ-Pay-API-wallet-connector
 Will the other contributors ever be paid for their work?
-
-NFT-DAO-EZ-On-Interop-NFTs
-
+- NFT-DAO-EZ-On-Interop-NFTs
 Will the other contributors ever be paid for their work?
-
-NFT-DAO-EZ-Ticket-dispenser
-
+- NFT-DAO-EZ-Ticket-dispenser
 Will the other contributors ever be paid for their work?
-
-NFT-DAO-EZ-Name
-
+- NFT-DAO-EZ-Name
 Will the other contributors ever be paid?
-
-NFT-DAO-EZ-Honor-contribution-token
-
+- NFT-DAO-EZ-Honor-contribution-token
 Why haven't any of the contributors been paid by the NFT-DAO?
 
 ### Hey Rich, Thanks for your response here.
